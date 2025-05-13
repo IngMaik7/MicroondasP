@@ -1,13 +1,5 @@
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-  }
-  
-
 #map {
-    height: 90vh;
+    height: 500px;
     width: 100%;
-    border: 2px solid #444;
+    margin: 0 auto;
   }
-
-#map { height: 180px; }
