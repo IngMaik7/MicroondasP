@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features":[
+        {
+            "type": "Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":{}
+            },
+            "properties":{
+                "marca":"NE",
+                "alto": 26.2,
+                "ancho":45.5,
+                "profundidad":20,
+                "modelo":"WM1807B",
+                "voltaje":110,
+                "precio":309.000,
+                "potencia":"NE"
+            }
+        }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":{}
+            },
+            "properties":{
+                "marca":"mabe",
+                "alto": "",
+                "ancho":"",
+                "profundidad":"",
+                "modelo":"HMM07BR",
+                "voltaje":110,
+                "precio":269.000,
+                "potencia":"NE"
+            }
+        }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":{}
+            },
+            "properties":{
+                "marca":"Electrolux",
+                "alto": "",
+                "ancho":"",
+                "profundidad":"",
+                "modelo":"WM1807B",
+                "voltaje":110,
+                "precio":250.000,
+                "potencia":"NE"
+            }
+        }
+    ]
+}
