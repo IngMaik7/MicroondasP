@@ -10,6 +10,19 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // SI el valor de la llave es un rreglo hacer un ciclo para recorrer elementos
 
 async function Cargarpuntos() {
-    var miArchivo= await fetch ("microondas.geojson")
+    var miArchivo= await fetch ("microondas.geojson");
+
+    // convertir 
+    var datos = await miArchivo.json();
+    // obtener arreglo de llaves
+    let listaFeatures=datos["features"];
+
+
+    for (let i =0; i<2;i++){
+        let misCoordenadas=listaFeatures[i]["geometry"]["coordinates"]
+        var miMarcador=L.marker(misCoordenadas);
+        miMarcador.addTo(map);
+    }
     
 }
+Cargarpuntos();
