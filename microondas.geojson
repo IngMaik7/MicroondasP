@@ -69,5 +69,73 @@
                 "potencia":1050
             }
         }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.634132, -74.065581]
+            },
+            "properties":{
+                "marca":"Haceb",
+                "alto": ,
+                "ancho":,
+                "profundidad":,
+                "modelo":"9003164",
+                "voltaje":120,
+                "precio":329.600,
+                "potencia":1050
+            }
+        }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.634132, -74.065581]
+            },
+            "properties":{
+                "marca":"Haceb",
+                "alto": 25.4,
+                "ancho":43.7,
+                "profundidad":30.4,
+                "modelo":"9003164",
+                "voltaje":120,
+                "precio":329.600,
+                "potencia":1050
+            }
+        }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.634132, -74.065581]
+            },
+            "properties":{
+                "marca":"Haceb",
+                "alto": 25.4,
+                "ancho":43.7,
+                "profundidad":30.4,
+                "modelo":"9003164",
+                "voltaje":120,
+                "precio":329.600,
+                "potencia":1050
+            }
+        }
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"point",
+                "coordinates":[4.634132, -74.065581]
+            },
+            "properties":{
+                "marca":"Haceb",
+                "alto": 25.4,
+                "ancho":43.7,
+                "profundidad":30.4,
+                "modelo":"9003164",
+                "voltaje":120,
+                "precio":329.600,
+                "potencia":1050
+            }
+        }
     ]
 }
