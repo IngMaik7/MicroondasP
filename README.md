@@ -4,6 +4,9 @@
   No saleeeeee
 
 ## Requisitos
--
+- Barato
+- Bonito
+- Pueda calentar mi almuerzo
 ## Uso
--
+- Propio
+- Comunitario

@@ -5,6 +5,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 var marker = L.marker([4.627947, -74.065791]).addTo(map);
 
+
 // Abrir archivo GeoJSON
 // Buscar llaves de interes
 // SI el valor de la llave es un rreglo hacer un ciclo para recorrer elementos
